@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ashutosh-Rai-14/Ashutosh-Rai-14/blob/main/github.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1000&deleteSpeed=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ashutosh+Rai;AI%2FML+Enthusiast;Aspiring+Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=800&deleteSpeed=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ashutosh+Rai;AI%2FML+Enthusiast;Aspiring+Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 AI & Machine Learning Enthusiast | Full Stack Developer | Problem Solver</h3>
