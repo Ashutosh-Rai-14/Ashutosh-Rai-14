@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh-Rai-14&theme=radical&name=%20" alt="profile det/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh-Rai-14&theme=radical&name=Ashutosh+Rai"profile det/>
 </p>
 
 ---
