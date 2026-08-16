@@ -36,11 +36,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Rai-14&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rai-14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh-Rai-14&theme=radical&name=Ashutosh+Rai"profile det/>
 </p>
 
